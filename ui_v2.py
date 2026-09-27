@@ -124,6 +124,16 @@ a { color: var(--accent); }
 .planx-card-value { font-size:21px; color:var(--text); font-weight:760; letter-spacing:-.03em; }
 .planx-card-note { margin-top:7px; font-size:10px; color:var(--subtle); }
 .planx-empty { background:#111820; border:1px dashed #34424e; border-radius:14px; padding:20px; color:var(--muted); }
+.dashboard-date { padding:10px 2px; text-align:right; color:var(--text); font-size:13px; font-weight:650; }
+.dashboard-date span { color:var(--muted); font-size:10px; font-weight:450; }
+.dashboard-section-label { margin:5px 0 9px; color:var(--accent); font-size:10px; font-weight:800; letter-spacing:.14em; }
+.dashboard-section-label span { margin-left:9px; color:var(--subtle); font-size:10px; font-weight:450; letter-spacing:0; }
+.instrument-price { margin:15px 0 0; color:var(--text); font-size:34px; font-weight:780; letter-spacing:-.045em; font-variant-numeric:tabular-nums; }
+.instrument-price span { margin-left:5px; color:var(--muted); font-size:15px; font-weight:550; }
+.chart-note { margin-left:8px; color:var(--subtle); font-size:10px; font-weight:450; }
+.notice-date { margin:8px 0 4px; color:var(--subtle); font-size:10px; font-variant-numeric:tabular-nums; }
+[data-testid="stVerticalBlockBorderWrapper"] [data-testid="stDataFrame"] { border:0; background:transparent; }
+[data-testid="stVerticalBlockBorderWrapper"] [data-testid="stDataFrame"] iframe { background:transparent; }
 .planx-source { display:inline-flex; align-items:center; gap:5px; color:var(--muted); background:#18212a; border:1px solid var(--line); padding:4px 8px; border-radius:999px; font-size:10px; }
 .planx-status-ok { color:#54dfba; background:rgba(57,214,176,.1); border-color:rgba(57,214,176,.24); }
 .planx-status-wait { color:#e9be74; background:rgba(233,190,116,.09); border-color:rgba(233,190,116,.2); }
