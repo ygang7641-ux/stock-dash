@@ -1,0 +1,189 @@
+{
+  "schema_version": 1,
+  "reports": [
+    {
+      "code": "005930",
+      "name": "삼성전자",
+      "as_of": "2026-09-27",
+      "summary": {
+        "text": "2026년 상반기 연결 누적 매출은 305.37조원으로 전년 동기 153.71조원 대비 약 98.7% 증가했고, 영업이익은 146.73조원으로 11.36조원 대비 약 1,191.6% 증가했다. 증감률은 공개된 억원 단위 입력값으로 계산했다. 반도체 DS의 이익 기여가 매우 커진 가운데 DX·디스플레이·하만 등 복수 사업을 함께 영위하므로 전사 이익을 메모리 단일 사업의 경쟁력으로 해석하지 않는다.",
+        "source": "https://www.samsung.com/sec/ir/reports-disclosures/public-disclosure/4016/"
+      },
+      "business": {
+        "text": "종합 전자기업으로 DS(메모리·시스템LSI·파운드리), DX(스마트폰·TV·가전·네트워크), 디스플레이와 하만(전장·오디오)을 함께 운영한다. 2026년 2분기 DS 매출 127.5조원·영업이익 89.2조원, DX 매출 48조원·영업손실 0.8조원, 디스플레이 매출 7.5조원·영업이익 0.7조원, 하만 매출 4.6조원·영업이익 0.4조원이었다. 메모리·서버용 AI 제품과 스마트폰, TV·가전, 디스플레이, 전장·오디오가 주력 매출원이다.",
+        "source": "https://news.samsung.com/kr/삼성전자-2026년-2분기-실적-발표"
+      },
+      "financial": {
+        "period": "2026-06",
+        "prior_period": "2025-06",
+        "basis": "연결 K-IFRS 잠정",
+        "currency": "KRW",
+        "unit": "억원",
+        "revenue": 3053700,
+        "prior_revenue": 1537100,
+        "operating_profit": 1467300,
+        "prior_operating_profit": 113600,
+        "source": "https://www.samsung.com/sec/ir/reports-disclosures/public-disclosure/4016/"
+      },
+      "flow": null,
+      "valuation": null,
+      "prices": null,
+      "peers": {
+        "period": "2026-06",
+        "basis": "연결 K-IFRS 잠정",
+        "currency": "KRW",
+        "unit": "억원",
+        "selection_reason": "국내 상장 메모리 반도체 주요 기업 2곳의 2026년 상반기 전사 영업이익 비교이며 표본 안에서 SK하이닉스 1위, 삼성전자 2위다. 삼성전자 수치는 비메모리·완제품 등 전체 연결 사업을 포함하므로 메모리 사업 경쟁력 순위가 아니다.",
+        "source": "https://www.samsung.com/sec/ir/reports-disclosures/public-disclosure/4016/",
+        "rows": [
+          {
+            "name": "삼성전자",
+            "operating_profit": 1467300,
+            "period": "2026-06",
+            "basis": "연결 K-IFRS 잠정",
+            "currency": "KRW",
+            "unit": "억원",
+            "source": "https://www.samsung.com/sec/ir/reports-disclosures/public-disclosure/4016/"
+          },
+          {
+            "name": "SK하이닉스",
+            "operating_profit": 981529,
+            "period": "2026-06",
+            "basis": "연결 K-IFRS 잠정",
+            "currency": "KRW",
+            "unit": "억원",
+            "source": "https://news.skhynix.com/en/q2-2026-business-results/"
+          }
+        ]
+      },
+      "data_gaps": [
+        "외국인·기관 순매수: null. 기준기간을 고정한 개별종목 KRX 투자자별 매매 시계열을 이 조사에서 내려받아 합산하지 못함. 원문 조회: https://data.krx.co.kr/contents/MDC/MDI/outerLoader/index.cmd?screenId=MDCSTAT022",
+        "수정주가 일봉·완료 주봉: null. KRX 수정주가 시계열의 최근 최소 61거래일 및 21완료주 행을 확보하지 못해 이동평균·기울기 계산 불가. 가격 원문 조회: https://data.krx.co.kr/",
+        "적정주가(방법·가정): null. 2026-09-25 종가와 평가에 필요한 검증된 시장 입력을 함께 확보하지 못했고 회사 공시 자체에는 적정주가가 없으므로 임의의 배수·목표가를 만들지 않음."
+      ]
+    },
+    {
+      "code": "000660",
+      "name": "SK하이닉스",
+      "as_of": "2026-09-27",
+      "summary": {
+        "text": "2026년 상반기 연결 매출은 131.895조원으로 전년 동기 39.8711조원 대비 약 230.8% 증가했고, 영업이익은 98.1529조원으로 16.6534조원 대비 약 489.4% 증가했다. 회사는 AI 서버용 HBM·DRAM·eSSD 등 고부가 메모리 제품 판매를 실적 배경으로 제시했다.",
+        "source": "https://news.skhynix.com/en/q2-2026-business-results/"
+      },
+      "business": {
+        "text": "DRAM과 NAND 플래시 메모리를 설계·제조·판매하는 메모리 반도체 기업이다. 회사의 2026년 2분기 자료는 HBM4 양산 출하, AI 서버 DRAM·eSSD 등 고부가 제품 확대, SOCAMM2 판매 증가를 주요 사업 흐름으로 설명한다. 매출과 이익은 AI 인프라 투자, 메모리 가격·수요, 생산능력과 제품 믹스의 영향을 크게 받는다.",
+        "source": "https://news.skhynix.com/en/q2-2026-business-results/"
+      },
+      "financial": {
+        "period": "2026-06",
+        "prior_period": "2025-06",
+        "basis": "연결 K-IFRS 잠정",
+        "currency": "KRW",
+        "unit": "억원",
+        "revenue": 1318950,
+        "prior_revenue": 398711,
+        "operating_profit": 981529,
+        "prior_operating_profit": 166534,
+        "source": "https://news.skhynix.com/en/q2-2026-business-results/"
+      },
+      "flow": null,
+      "valuation": null,
+      "prices": null,
+      "peers": {
+        "period": "2026-06",
+        "basis": "연결 K-IFRS 잠정",
+        "currency": "KRW",
+        "unit": "억원",
+        "selection_reason": "국내 상장 메모리 반도체 주요 기업 2곳의 2026년 상반기 전사 영업이익 비교이며 표본 안에서 SK하이닉스 1위, 삼성전자 2위다. 삼성전자 수치는 비메모리·완제품 등 전체 연결 사업을 포함하므로 메모리 사업 경쟁력 순위가 아니다.",
+        "source": "https://news.skhynix.com/en/q2-2026-business-results/",
+        "rows": [
+          {
+            "name": "삼성전자",
+            "operating_profit": 1467300,
+            "period": "2026-06",
+            "basis": "연결 K-IFRS 잠정",
+            "currency": "KRW",
+            "unit": "억원",
+            "source": "https://www.samsung.com/sec/ir/reports-disclosures/public-disclosure/4016/"
+          },
+          {
+            "name": "SK하이닉스",
+            "operating_profit": 981529,
+            "period": "2026-06",
+            "basis": "연결 K-IFRS 잠정",
+            "currency": "KRW",
+            "unit": "억원",
+            "source": "https://news.skhynix.com/en/q2-2026-business-results/"
+          }
+        ]
+      },
+      "data_gaps": [
+        "외국인·기관 순매수: null. 기준기간을 고정한 개별종목 KRX 투자자별 매매 시계열을 이 조사에서 내려받아 합산하지 못함. 원문 조회: https://data.krx.co.kr/contents/MDC/MDI/outerLoader/index.cmd?screenId=MDCSTAT022",
+        "수정주가 일봉·완료 주봉: null. KRX 수정주가 시계열의 최근 최소 61거래일 및 21완료주 행을 확보하지 못해 이동평균·기울기 계산 불가. 가격 원문 조회: https://data.krx.co.kr/",
+        "적정주가(방법·가정): null. 2026-09-25 종가와 평가에 필요한 검증된 시장 입력을 함께 확보하지 못했고 회사 공시 자체에는 적정주가가 없으므로 임의의 배수·목표가를 만들지 않음."
+      ]
+    },
+    {
+      "code": "035420",
+      "name": "NAVER",
+      "as_of": "2026-09-27",
+      "summary": {
+        "text": "2026년 상반기 연결 영업수익은 6조 6,298.16억원으로 전년 동기 5조 7,019억원 대비 약 16.3% 증가했고, 영업이익은 1조 620.66억원으로 1조 269억원 대비 약 3.4% 증가했다. 광고·커머스 및 글로벌 C2C가 매출 성장에 기여했지만 AI 인프라 투자를 포함한 비용 증가로 2분기 영업이익은 전년 동기보다 0.2% 감소했다.",
+        "source": "https://www.navercorp.com/media/pressReleasesDetail?seq=10034577"
+      },
+      "business": {
+        "text": "검색·디스플레이 광고와 쇼핑·멤버십 등 네이버 플랫폼, 네이버페이 중심의 금융 플랫폼, 크림·포시마크 등 C2C 및 콘텐츠·클라우드 등 글로벌 도전 사업을 운영한다. 2026년 2분기 매출은 네이버 플랫폼 1조 9,022억원, 파이낸셜 플랫폼 4,707억원, 글로벌 도전 1조 159억원이었다. 회사 발표상 광고와 커머스, 글로벌 C2C가 핵심 성장 요인이었다.",
+        "source": "https://www.navercorp.com/media/pressReleasesDetail?seq=10034577"
+      },
+      "financial": {
+        "period": "2026-06",
+        "prior_period": "2025-06",
+        "basis": "연결 K-IFRS",
+        "currency": "KRW",
+        "unit": "억원",
+        "revenue": 66298.16,
+        "prior_revenue": 57019,
+        "operating_profit": 10620.66,
+        "prior_operating_profit": 10269,
+        "source": "https://www.navercorp.com/investment/financialStatements"
+      },
+      "flow": null,
+      "valuation": null,
+      "prices": null,
+      "peers": {
+        "period": "2026-06",
+        "basis": "연결 K-IFRS 잠정",
+        "currency": "KRW",
+        "unit": "억원",
+        "selection_reason": "국내 상장 인터넷 플랫폼 사업자 NAVER·카카오의 2026년 상반기 연결 영업이익 표본 비교이며 NAVER 1위, 카카오 2위다. 사업 포트폴리오가 다르므로 표본 내 금액 순위만 뜻한다. NAVER 실적은 회사의 1·2분기 공시를, 카카오는 공식 IR의 같은 분기 자료를 합산했다.",
+        "source": "https://www.navercorp.com/investment/financialStatements",
+        "rows": [
+          {
+            "name": "NAVER",
+            "operating_profit": 10620.66,
+            "period": "2026-06",
+            "basis": "연결 K-IFRS 잠정",
+            "currency": "KRW",
+            "unit": "억원",
+            "source": "https://www.navercorp.com/investment/financialStatements"
+          },
+          {
+            "name": "카카오",
+            "operating_profit": 4884,
+            "period": "2026-06",
+            "basis": "연결 K-IFRS 잠정",
+            "currency": "KRW",
+            "unit": "억원",
+            "source": "https://www.kakaocorp.com/ir/referenceRoom/earningsAnnouncement"
+          }
+        ]
+      },
+      "data_gaps": [
+        "외국인·기관 순매수: null. 기준기간을 고정한 개별종목 KRX 투자자별 매매 시계열을 이 조사에서 내려받아 합산하지 못함. 원문 조회: https://data.krx.co.kr/contents/MDC/MDI/outerLoader/index.cmd?screenId=MDCSTAT022",
+        "수정주가 일봉·완료 주봉: null. KRX 수정주가 시계열의 최근 최소 61거래일 및 21완료주 행을 확보하지 못해 이동평균·기울기 계산 불가. 가격 원문 조회: https://data.krx.co.kr/",
+        "적정주가(방법·가정): null. 2026-09-25 종가와 평가에 필요한 검증된 시장 입력을 함께 확보하지 못했고 회사 공시 자체에는 적정주가가 없으므로 임의의 배수·목표가를 만들지 않음."
+      ]
+    }
+  ]
+}
+
